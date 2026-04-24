@@ -1,11 +1,9 @@
 # climate-challenge-week0
 
-# Climate Challenge Week 0
-
 ## Setup Instructions
 
 ### Clone the repo
-git clone <repo-url>
+git clone https://github.com/wossenF/climate-challenge-week0.git
 
 ### Create virtual environment
 python -m venv venv
