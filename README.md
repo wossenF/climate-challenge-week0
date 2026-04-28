@@ -19,6 +19,7 @@ cd climate-challenge-week0
 ### Create virtual environment
 python -m venv venv
 
+
 ### Activate environment
 Windows:
 venv\Scripts\activate
