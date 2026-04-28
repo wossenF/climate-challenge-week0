@@ -4,7 +4,7 @@
 ---
 
 ## Overview
-This notebook presents the exploratory data analysis (EDA) for **Nigeria** using historical climate data (2015–2026).
+This notebook presents the exploratory data analysis (EDA) for **Sudan** using historical climate data (2015–2026).
 
 The objective is to identify key climate patterns, trends, and anomalies to support data-driven insights for climate analysis.
 
