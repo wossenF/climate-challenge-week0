@@ -1,12 +1,24 @@
 # climate-challenge-week0
 
+# Climate Challenge – Week 0
+
+## Project Overview
+This project analyzes historical climate data (2015–2026) across five African countries to identify trends and support data-driven insights for climate policy discussions.
+
+---
+
 ## Setup Instructions
 
-### Clone the repo
+### Clone the repository
+
+```bash
+
 git clone https://github.com/wossenF/climate-challenge-week0.git
+cd climate-challenge-week0
 
 ### Create virtual environment
 python -m venv venv
+
 
 ### Activate environment
 Windows:
